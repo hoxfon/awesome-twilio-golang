@@ -37,6 +37,8 @@ Name                                                                      |SMS|C
 Go implementation for Twilio access tokens and Programmable Video.
 Go AccessToken creator for Twilio with support for grants. This library supports HS256, HS384, and HS512 hashing using a minimal JWT implementation.
 
+[xaviiic/twilioGo](https://github.com/xaviiic/twilioGo) Implements both capabilities and access tokens
+
 [enahum/twilio-accesstoken-go](https://github.com/enahum/twilio-accesstoken-go)
 Similar to [corytodd/accesstoken-go](https://github.com/corytodd/accesstoken-go)
 
@@ -46,6 +48,7 @@ Similar to [corytodd/accesstoken-go](https://github.com/corytodd/accesstoken-go)
 
 ## Capability tokens
 [kevinburke/twilio-go](https://github.com/kevinburke/twilio-go)
+
 [xaviiic/twilioGo](https://github.com/xaviiic/twilioGo) 
 
 ## Tools and projects written in Go
